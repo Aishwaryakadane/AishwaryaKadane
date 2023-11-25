@@ -1,5 +1,8 @@
 <h1 align="center">Hi 👋, I'm Aishwarya Kadane</h1>
-<h3 align="center">A passionate Backend developer from India</h3>
+<h3 align="center">A passionate Backend developer from Maharashtra, India</h3>
+<p align="center">
+<img src="https://i0.wp.com/rad-code.sbs/wp-content/uploads/2023/07/hello-world.gif?resize=1024%2C1024&ssl=1" width="800" height="400" alt="Hello world" class="center" >
+</p>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=aishwaryakadane&label=Profile%20views&color=0e75b6&style=flat" alt="aishwaryakadane" /> </p>
 
@@ -14,6 +17,8 @@
 - 📫 How to reach me **kadaneaishwarya@gmail.com**
   
 - 📄 Know about my experiences [https://docs.google.com/document/d/1hJ824cjgG8SN90KHjKqqjDtZK0gR-RbEw5fViNzSd9s/edit](https://docs.google.com/document/d/1hJ824cjgG8SN90KHjKqqjDtZK0gR-RbEw5fViNzSd9s/edit)
+
+- ⚡ **Fun Fact** - Debugging code without print statements is like telling a joke without a punchline – you might get a few confused looks. Remember, debugging is the stand-up comedy of coding, and your console is the audience that deserves a good laugh!" 🤣💻
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
